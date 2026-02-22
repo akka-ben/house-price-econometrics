@@ -1,0 +1,49 @@
+================================================================================
+RÉFÉRENCES - Projet Régression Linéaire Multiple
+================================================================================
+
+DATASET
+-------
+- House Sales in King County, USA (Kaggle)
+  https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+  21,613 observations (Mai 2014 - Mai 2015)
+
+
+OUVRAGES CONSULTÉS
+------------------
+- Wooldridge, J. M. (2016). Introductory Econometrics: A Modern Approach
+- James, G. et al. (2013). An Introduction to Statistical Learning with R
+- Greene, W. H. (2018). Econometric Analysis
+
+
+ARTICLES ET MÉTHODES
+--------------------
+- Breusch-Pagan Test (1979) - Test d'hétéroscédasticité
+- White, H. (1980) - Erreurs standards robustes
+- Tibshirani, R. (1996) - Régression Lasso
+- Hoerl & Kennard (1970) - Régression Ridge
+- Cook, R. D. (1977) - Distance de Cook pour les points influents
+- Moran, P. A. P. (1950) - Test d'autocorrélation spatiale
+
+
+PACKAGES R
+----------
+- tidyverse - Manipulation de données
+- car - VIF et diagnostics
+- lmtest - Tests économétriques (Breusch-Pagan)
+- glmnet - Régression régularisée (Lasso, Ridge)
+- sandwich - Erreurs standards robustes
+- stargazer - Tableaux de régression
+- spdep - Analyse spatiale
+
+
+RESSOURCES EN LIGNE
+-------------------
+- Documentation R (CRAN): https://cran.r-project.org/
+- Stack Overflow - R: https://stackoverflow.com/questions/tagged/r
+- Cross Validated: https://stats.stackexchange.com/
+
+
+================================================================================
+Janvier 2026
+================================================================================
